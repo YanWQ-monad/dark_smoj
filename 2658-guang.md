@@ -66,3 +66,7 @@
 
 数据保证给出一棵树，且 $$1 \leq uu, vv, ww < n$$。
 
+## 来源
+
+[HDU 6353](http://acm.hdu.edu.cn/showproblem.php?pid=6353)
+

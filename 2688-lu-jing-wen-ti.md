@@ -65,3 +65,7 @@
 
 保证每条道路输入合法。 $$1 \leq z \leq 10^6$$ ，$$1 \leq t \leq 5$$。
 
+## 来源
+
+[HDU 6386](http://acm.hdu.edu.cn/showproblem.php?pid=6386)
+
