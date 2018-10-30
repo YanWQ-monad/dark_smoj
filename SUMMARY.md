@@ -1,6 +1,9 @@
 # Table of contents
 
 * [关于](README.md)
+* [2667 计算题](2667-ji-suan-ti.md)
+* [2668 数字](2668-shu-zi.md)
+* [2669 排列问题](2669-pai-lie-wen-ti.md)
 * [2678 或和](2678-huo-he.md)
 * [2679 01转换](2679-01-zhuan-huan.md)
 * [2680 邮件](2680-you-jian.md)
