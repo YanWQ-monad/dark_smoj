@@ -64,3 +64,7 @@
 
 且 $$a_i \geq b_{i-1}+2\ (i \geq 2)$$，$$1 \leq t \leq 5$$。
 
+## 来源
+
+[POJ 3872](http://poj.org/problem?id=3872)
+

@@ -72,3 +72,7 @@ query 1 5
 
  保证操作合法并且 ****$$b$$ 是一个排列。
 
+## 来源
+
+[HDU 6315](http://acm.hdu.edu.cn/showproblem.php?pid=6315)
+

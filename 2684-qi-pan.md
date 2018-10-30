@@ -44,3 +44,7 @@
 | 40% | $$1 \leq n, m \leq 10^3$$ |
 | 100% | $$1 \leq n, m \leq 10^9$$ |
 
+## 来源
+
+[Codeforces Round \#511 \(Div. 1\) B](https://codeforces.com/contest/1034/problem/B)
+

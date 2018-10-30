@@ -48,3 +48,7 @@
 
 $$1 \leq t \leq 5,\ 1 \leq a_i \leq 10^9$$ 
 
+## 来源
+
+[UVALive 6582](https://icpcarchive.ecs.baylor.edu/external/65/p6582.pdf)，[UVA 1642](https://uva.onlinejudge.org/external/16/1642.pdf)
+
