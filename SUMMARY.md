@@ -1,6 +1,9 @@
 # Table of contents
 
 * [关于](README.md)
+* [2678 或和](2678-huo-he.md)
+* [2679 01转换](2679-01-zhuan-huan.md)
+* [2680 邮件](2680-you-jian.md)
 * [2684 棋盘](2684-qi-pan.md)
 * [2685 开会](2685-kai-hui.md)
 * [2686 等价类](2686-deng-jia-lei.md)
