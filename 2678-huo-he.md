@@ -26,7 +26,7 @@
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-## 输入样例
+## 输出样例
 
 {% code-tabs %}
 {% code-tabs-item title="sample.out" %}

@@ -30,7 +30,7 @@
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-## 输出格式
+## 输出样例
 
 {% code-tabs %}
 {% code-tabs-item title="sample.out" %}
