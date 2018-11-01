@@ -19,4 +19,7 @@
 * [2687 最大公约数](2687-zui-da-gong-yue-shu.md)
 * [2688 路径问题](2688-lu-jing-wen-ti.md)
 * [2689 排列问题](2689-pai-lie-wen-ti.md)
+* [2690 去字母](2690-qu-zi-mu.md)
+* [2691 矩阵问题](2691-ju-zhen-wen-ti.md)
+* [2692 线图问题](2692-xian-tu-wen-ti.md)
 
