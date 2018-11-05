@@ -22,4 +22,7 @@
 * [2690 去字母](2690-qu-zi-mu.md)
 * [2691 矩阵问题](2691-ju-zhen-wen-ti.md)
 * [2692 线图问题](2692-xian-tu-wen-ti.md)
+* [2697 增援前线](2697-zeng-yuan-qian-xian.md)
+* [2698 进化序列](2698-jin-hua-xu-lie.md)
+* [2699 旅行](2699-lv-hang.md)
 
