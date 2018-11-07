@@ -28,4 +28,7 @@
 * [2702 最大绝对值](2702-zui-da-jue-dui-zhi.md)
 * [2703 颜色问题](2703-yan-se-wen-ti.md)
 * [2704 PB路径](2704-pb-lu-jing.md)
+* [2705 体艺节](2705-ti-yi-jie.md)
+* [2706 覆盖植物](2706-fu-gai-zhi-wu.md)
+* [2707 游戏节目](2707-you-xi-jie-mu.md)
 
