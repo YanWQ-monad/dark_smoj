@@ -25,4 +25,7 @@
 * [2697 增援前线](2697-zeng-yuan-qian-xian.md)
 * [2698 进化序列](2698-jin-hua-xu-lie.md)
 * [2699 旅行](2699-lv-hang.md)
+* [2702 最大绝对值](2702-zui-da-jue-dui-zhi.md)
+* [2703 颜色问题](2703-yan-se-wen-ti.md)
+* [2704 PB路径](2704-pb-lu-jing.md)
 
