@@ -32,6 +32,9 @@
 * [2706 覆盖植物](2706-fu-gai-zhi-wu.md)
 * [2707 游戏节目](2707-you-xi-jie-mu.md)
 * [2732 战火星空](2732-zhan-huo-xing-kong.md)
+* [2733 扮演方案](2733-ban-yan-fang-an.md)
 * [2734 围巾](2734-wei-jin.md)
 * [2735 奶牛安家](2735-nai-niu-an-jia.md)
+* [2736 排队](2736-pai-dui.md)
+* [2737 矩形](2737-ju-xing.md)
 
