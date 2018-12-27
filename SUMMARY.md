@@ -37,4 +37,7 @@
 * [2735 奶牛安家](2735-nai-niu-an-jia.md)
 * [2736 排队](2736-pai-dui.md)
 * [2737 矩形](2737-ju-xing.md)
+* [2738 方格取数](2738-fang-ge-qu-shu.md)
+* [2741 小草](2741-xiao-cao.md)
+* [2742 新赛制](2742-xin-sai-zhi.md)
 
