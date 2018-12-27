@@ -101,3 +101,7 @@ $$1 \leq n,\,m \leq 10^5$$，$$1 \leq k \leq 100$$，$$1 \leq x_i \leq n$$，$$1
 
 对于 20% 的数据，$$1\leq n,\,m \leq 10^3$$。
 
+## 来源
+
+[COCI 2018/2019 Contest \#3 Task NLO](http://hsin.hr/coci/contest3_tasks.pdf)
+

@@ -65,3 +65,7 @@
 
 $$1 \leq r \leq 10$$，$$1 \leq len_1,\,len_2,\,p_1,\,p_2 \leq 10^3$$。
 
+## 来源
+
+ ​[Baekjoon 14237](https://www.acmicpc.net/problem/14237)（不太匹配）
+

@@ -85,3 +85,7 @@
 
 $$1 \leq n,\,m \leq 100$$，$$1 \leq a \leq n$$，$$1 \leq b \leq m$$。$$2 \leq k \leq 10^9$$，且 $$k$$ 是偶数。$$0 \leq w_{i,\,j} \leq 10^9$$。
 
+## 来源
+
+[​COCI 2018/2019 Contest \#2 Task Maja​](http://hsin.hr/coci/contest2_tasks.pdf)
+

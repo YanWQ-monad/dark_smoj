@@ -76,3 +76,7 @@ DA
 
 $$1 \leq n \leq 10^5$$，所有整数范围为 $$[0,\,10^9]$$。
 
+## 来源
+
+[COCI 2018/2019 Contest \#2 Task Sunčanje​](http://hsin.hr/coci/contest2_tasks.pdf)
+

@@ -76,3 +76,7 @@
 
 对于 100% 的数据，$$1 \leq n,\,m \leq 20$$，输入的所有数均为正整数，且不超过 1000。
 
+## 来源
+
+[BZOJ 2864](https://zqlwmatt.github.io/JudgeOnline/2864.html)
+
