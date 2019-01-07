@@ -40,4 +40,7 @@
 * [2738 方格取数](2738-fang-ge-qu-shu.md)
 * [2741 小草](2741-xiao-cao.md)
 * [2742 新赛制](2742-xin-sai-zhi.md)
+* [2754 不同点集](2754-bu-tong-dian-ji.md)
+* [2768 询问次数](2768-xun-wen-ci-shu.md)
+* [2769 指令序列](2769-zhi-ling-xu-lie.md)
 
