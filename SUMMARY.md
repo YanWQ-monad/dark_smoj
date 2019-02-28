@@ -44,6 +44,7 @@
 * [2768 询问次数](2768-xun-wen-ci-shu.md)
 * [2769 指令序列](2769-zhi-ling-xu-lie.md)
 * [2805 染色](2805-ran-se.md)
+* [2806 建筑物](2806-jian-zhu-wu.md)
 * [2807 道路](2807-dao-lu.md)
 * [2808 字符串转换](2808-zi-fu-chuan-zhuan-huan.md)
 
