@@ -47,4 +47,7 @@
 * [2806 建筑物](2806-jian-zhu-wu.md)
 * [2807 道路](2807-dao-lu.md)
 * [2808 字符串转换](2808-zi-fu-chuan-zhuan-huan.md)
+* [2813 聪明绝顶](2813-cong-ming-jue-ding.md)
+* [2814 集合论](2814-ji-he-lun.md)
+* [2815 遗忘的名字](2815-yi-wang-de-ming-zi.md)
 
