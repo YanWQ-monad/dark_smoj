@@ -50,4 +50,7 @@
 * [2813 聪明绝顶](2813-cong-ming-jue-ding.md)
 * [2814 集合论](2814-ji-he-lun.md)
 * [2815 遗忘的名字](2815-yi-wang-de-ming-zi.md)
+* [2823 找玩具](2823-zhao-wan-ju.md)
+* [2827 闯关游戏](2827-chuang-guan-you-xi.md)
+* [2828 子数组有主元素](2828-zi-shu-zu-you-zhu-yuan-su.md)
 
