@@ -56,4 +56,8 @@
 * [2828 子数组有主元素](2828-zi-shu-zu-you-zhu-yuan-su.md)
 * [2829 黑白球](2829-hei-bai-qiu.md)
 * [2830 树与图](2830-shu-yu-tu.md)
+* [2843 单人游戏](2843-dan-ren-you-xi.md)
+* [2844 赚金币](2844-zhuan-jin-bi.md)
+* [2845 硬币翻转](2845-ying-bi-fan-zhuan.md)
+* [2847 “KO”游戏](2847-ko-you-xi.md)
 
