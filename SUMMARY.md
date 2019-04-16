@@ -60,8 +60,12 @@
 * [2844 赚金币](2844-zhuan-jin-bi.md)
 * [2845 硬币翻转](2845-ying-bi-fan-zhuan.md)
 * [2847 “KO”游戏](2847-ko-you-xi.md)
+* [2859 干草](2859-gan-cao.md)
 * [2860 变形的最大连续子序列和](2860-bian-xing-de-zui-da-lian-xu-zi-xu-lie-he.md)
 * [2861 无向图](2861-wu-xiang-tu.md)
 * [2862 子图](2862-zi-tu.md)
 * [2863 美食](2863-mei-shi.md)
+* [2864 堆](2864-dui.md)
+* [2865 密文](2865-mi-wen.md)
+* [2866 树](2866-shu.md)
 
