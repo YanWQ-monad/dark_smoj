@@ -55,5 +55,5 @@
 
 ## 来源
 
-[NEUOJ 1372](http://oj.neauacm.cn/problem.php?id=1372)，[BZOJ 6429](http://acm.hdu.edu.cn/showproblem.php?pid=6429)
+[NEUOJ 1372](http://oj.neauacm.cn/problem.php?id=1372)，[HDU 6429](http://acm.hdu.edu.cn/showproblem.php?pid=6429)
 
