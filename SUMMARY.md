@@ -81,4 +81,7 @@
 * [2919 最大点权和](2919-zui-da-dian-quan-he.md)
 * [2920 一刀](2920-yi-dao.md)
 * [2921 最小三角形](2921-zui-xiao-san-jiao-xing.md)
+* [2922 最长公共子串](2922-zui-chang-gong-gong-zi-chuan.md)
+* [2923 不可重叠最长重复子串](2923-bu-ke-zhong-die-zui-chang-zhong-fu-zi-chuan.md)
+* [2924 求值](2924-qiu-zhi.md)
 
