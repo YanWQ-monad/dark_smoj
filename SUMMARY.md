@@ -78,4 +78,7 @@
 * [2916 区间求解](2916-qu-jian-qiu-jie.md)
 * [2917 花](2917-hua.md)
 * [2918 计数](2918-ji-shu.md)
+* [2919 最大点权和](2919-zui-da-dian-quan-he.md)
+* [2920 一刀](2920-yi-dao.md)
+* [2921 最小三角形](2921-zui-xiao-san-jiao-xing.md)
 
