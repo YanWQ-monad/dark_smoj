@@ -84,4 +84,7 @@
 * [2922 最长公共子串](2922-zui-chang-gong-gong-zi-chuan.md)
 * [2923 不可重叠最长重复子串](2923-bu-ke-zhong-die-zui-chang-zhong-fu-zi-chuan.md)
 * [2924 求值](2924-qiu-zhi.md)
+* [2925 T1](2925-t1.md)
+* [2926 T2](2926-t2.md)
+* [2927 T3](2927-t3.md)
 
