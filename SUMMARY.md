@@ -93,4 +93,7 @@
 * [2931 终结](2931-zhong-jie.md)
 * [2932 博士](2932-bo-shi.md)
 * [2933 最短路](2933-zui-duan-lu.md)
+* [2934 夏洛特](2934-xia-luo-te.md)
+* [2935 先知系统](2935-xian-zhi-xi-tong.md)
+* [2936 替身](2936-ti-shen.md)
 
