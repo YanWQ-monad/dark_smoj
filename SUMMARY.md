@@ -102,4 +102,7 @@
 * [2940 辩论会](2940-bian-lun-hui.md)
 * [2941 数独](2941-shu-du.md)
 * [2942 面积](2942-mian-ji.md)
+* [2943 蛋糕](2943-dan-gao.md)
+* [2944 找钱](2944-zhao-qian.md)
+* [2945 城镇](2945-cheng-zhen.md)
 
