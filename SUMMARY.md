@@ -108,4 +108,7 @@
 * [2946 中间值](2946-zhong-jian-zhi.md)
 * [2947 最小值](2947-zui-xiao-zhi.md)
 * [2948 最大值](2948-zui-da-zhi.md)
+* [2949 质数乘积](2949-zhi-shu-cheng-ji.md)
+* [2950 异或](2950-yi-huo.md)
+* [2951 排列](2951-pai-lie.md)
 
