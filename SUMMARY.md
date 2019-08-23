@@ -117,4 +117,7 @@
 * [2955 赚钱](2955-zhuan-qian.md)
 * [2956 疲劳值](2956-pi-lao-zhi.md)
 * [2957 连通](2957-lian-tong.md)
+* [2958 蓝色元年](2958-lan-se-yuan-nian.md)
+* [2959 独特度](2959-du-te-du.md)
+* [2960 密码](2960-mi-ma.md)
 
