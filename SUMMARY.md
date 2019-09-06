@@ -126,4 +126,7 @@
 * [2964 函数](2964-han-shu.md)
 * [2965 小Y的序列](2965-xiaoyde-xu-lie.md)
 * [2966 小L的机器人](2966-xiaolde-ji-qi-ren.md)
+* [2967 二次函数](2967-er-ci-han-shu.md)
+* [2968 数列期望](2968-shu-lie-qi-wang.md)
+* [2969 树](2969-shu.md)
 
