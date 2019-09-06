@@ -123,4 +123,7 @@
 * [2961 星系](2961-xing-xi.md)
 * [2962 宝石](2962-bao-shi.md)
 * [2963 旅伴](2963-lv-ban.md)
+* [2964 函数](2964-han-shu.md)
+* [2965 小Y的序列](2965-xiaoyde-xu-lie.md)
+* [2966 小L的机器人](2966-xiaolde-ji-qi-ren.md)
 
